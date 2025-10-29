@@ -2,6 +2,10 @@
 
 This document should be completed and submitted during **Unit 5** of this course. You **must** check off all completed tasks in this document in order to receive credit for your work.
 
+Repository forked to: https://github.com/jellyfishing2346/web103_finalproject
+
+Work completed solo by: Faizan Khan
+
 ## Checklist
 
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
